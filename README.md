@@ -1,3 +1,4 @@
+[![Gitter](https://badges.gitter.im/mattpodwysocki/jsday-workshop-2016.svg)](https://gitter.im/mattpodwysocki/jsday-workshop-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # Functional and Asynchronous JavaScript Tutorial - jsDay.it 2016
 
 This is a workshop to teach the fundamentals of functional programming in JavaScript and then a light introduction to the Reactive Extensions for JavaScript (RxJS).
