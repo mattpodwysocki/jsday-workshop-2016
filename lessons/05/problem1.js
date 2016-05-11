@@ -1,4 +1,4 @@
-console.clear();
+
 
 // Get elements
 var weightSliderElem = document.querySelector('#weight-slider');
