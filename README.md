@@ -1,5 +1,10 @@
 # Functional and Asynchronous JavaScript Tutorial - jsDay.it 2016
 
+This is a workshop to teach the fundamentals of functional programming in JavaScript and then a light introduction to the Reactive Extensions for JavaScript (RxJS).
+
+## Workshop Material
+- [Slides](jsday-workshop-2016.pdf)
+
 ## Learn RxJS
 
 This is a series of interactive exercises for learning the Reactive Extensions for Javascript (RxJS). So why is the title "Functional Programming in Javascript"? Well it turns out that the key to learning RxJS is training yourself to use functional programming to manipulate collections. Functional programming provides developers with the tools to abstract common collection operations into reusable, composable building blocks. You'll be surprised to learn that most of the operations you perform on collections can be accomplished with five simple functions:
@@ -32,10 +37,10 @@ You can use [JSBin](http://jsbin.com/yudopusiji/1/edit?html,js,output) with [RxJ
 9. [Cold and Hot Observables](lessons/08/readme.md)
 10. [FlatMap: the mother of all operators](lessons/10/readme.md)
 
+## Other Workshops
 
-## RxJS Koans ##
-
-If you prefer to learn using unit testing and Koans, try the [RxJS Koans](https://github.com/mattpodwysocki/RxJS-Koans). Also, want to add more lessons! Send a pull request!
+- [RxJS Koans](https://github.com/mattpodwysocki/RxJS-Koans)
+- [JSChannel RxJS Workshop](https://github.com/channikhabra/rxjs-workshop-nov-2015)
 
 ## RxJS Resources ##
 
@@ -56,13 +61,13 @@ Challenge yourself to build something amazing during your time here. Using RxJS 
 
 ### [AngularJS](http://angularjs.org) and RxJS Examples
 - [RxJS Angular Examples](https://github.com/Reactive-Extensions/rx.angular.js/tree/master/examples)
-- [Angular Examples](http://xgrommx.github.io/rx-book/content/similar_libraries/index.html#angular)
+- [Angular Examples](https://github.com/xgrommx/rx-book/blob/master/content/resources/reactive_libraries/rx.md#angular)
 
 ### [React](http://react.facebook.com) and RxJS Examples
-- [React Examples](http://xgrommx.github.io/rx-book/content/similar_libraries/index.html#react)
+- [React Examples](https://github.com/xgrommx/rx-book/blob/master/content/resources/reactive_libraries/rx.md#react)
 
 ### [Cycle.js](http://cycle.js.org)
-- [Cycle.js Examples](http://xgrommx.github.io/rx-book/content/similar_libraries/index.html#cycle)
+- [Cycle.js Examples](https://github.com/xgrommx/rx-book/blob/master/content/resources/reactive_libraries/rx.md#cycle)
 
 ### RxJS Based Frameworks
 - [Cycle.js](http://cycle.js.org/)
