@@ -1,4 +1,4 @@
-console.clear();
+var Rx = require('rx');
 
 var promise = new Promise(function (resolve, reject) {
   setTimeout(function () {

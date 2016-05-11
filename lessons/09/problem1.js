@@ -1,4 +1,4 @@
-console.clear();
+var Rx = require('rx');
 
 var clock = Rx.Observable.interval(1000).take(10).map(x => x+1);
 
