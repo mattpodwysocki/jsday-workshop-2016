@@ -41,6 +41,7 @@ You can use [JSBin](http://jsbin.com/yudopusiji/1/edit?html,js,output) with [RxJ
 
 - [RxJS Koans](https://github.com/mattpodwysocki/RxJS-Koans)
 - [JSChannel RxJS Workshop](https://github.com/channikhabra/rxjs-workshop-nov-2015)
+- [Yet Another RSS Reader](https://github.com/channikhabra/yarr)
 
 ## RxJS Resources ##
 
